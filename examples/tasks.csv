@@ -1,0 +1,11 @@
+name,volume,repeatability,data_quality,low_judgement,low_exceptions,error_impact,reversible,hours_per_month
+Request intake and routing,5,5,4,4,4,low,yes,120
+Brief completeness check,5,4,4,4,3,low,yes,90
+Format and template QA,4,5,5,5,4,low,yes,150
+Weekly status report assembly,3,5,4,4,4,low,yes,40
+First-pass content review,4,3,3,2,3,medium,yes,200
+Client reply drafting,4,3,3,2,2,medium,no,110
+Refund and credit decisions,2,3,4,2,2,high,no,25
+Creative direction,3,1,2,1,2,medium,yes,80
+Contract and legal review,2,2,3,1,2,high,no,30
+New-joiner Q and A,4,3,3,3,3,low,yes,60
